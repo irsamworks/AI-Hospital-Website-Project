@@ -231,3 +231,10 @@ Semester: 2
 - AI-assisted website generation
 - UI/UX planning
 - Practical use of generative AI
+## 📸 Screenshots
+
+- Homepage
+- Doctors Page
+- Appointment Page
+- Contact Page
+
