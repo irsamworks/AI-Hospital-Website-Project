@@ -217,6 +217,11 @@ Generate a polished, professional hospital website that looks real-world, premiu
 - Contact page
 - Functional buttons
 - Modern UI
+- ## 👨‍🎓 Student Information
+Name: Irsam Fatima  
+University: Superior University  
+Program: BS Artificial Intelligence  
+Semester: 2
 
 ## Live Website Link
 (https://medi-care-hospital.lovable.app)
